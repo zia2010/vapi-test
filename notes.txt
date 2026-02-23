@@ -1,4 +1,116 @@
-SILENCE HANDLING:
-- If the caller is silent for more than 10 seconds, say: "Are you still there? I'm happy to help if you have any questions."
-- If still no response after another 5 seconds, say: "It seems like we may have lost the connection. Feel free to call us back anytime. Have a great day! Goodbye."
-- Then end the call.
+Full Industry List — Every Business That Misses Calls and Will Pay You
+Tier 1: Best Industries (High Value, Easy Sell)
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Dental Clinics	Staff with patients, small teams	$500-3,000	Appointment booking, insurance questions, pricing
+Med Spas / Aesthetics	Performing treatments, high call volume	$300-5,000	Botox/filler pricing, appointment booking, consultation scheduling
+Veterinary Clinics	With animals, emergencies, overwhelmed staff	$200-2,000	Pet appointment booking, emergency triage, hours/pricing
+Chiropractors	Adjusting patients, 1-2 person office	$200-800	New patient scheduling, insurance checks, pricing
+Dermatologists	With patients, small practices	$300-2,000	Skin check appointments, cosmetic consultation booking
+Optometrists / Eye Clinics	Eye exams, busy schedule	$200-1,500	Eye exam booking, insurance, glasses/contacts questions
+Physical Therapy Clinics	With patients all day	$150-500 per visit	Session scheduling, insurance verification, new patient intake
+Tier 2: Home Services (Always On Job Sites, Can't Answer)
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Plumbers	Under sinks, hands dirty, driving	$200-5,000	Emergency/non-emergency triage, booking, pricing estimates
+HVAC (Heating/AC)	On rooftops, in attics, driving	$300-10,000	AC repair booking, maintenance scheduling, emergency dispatch
+Electricians	Hands in wiring, safety-critical work	$200-5,000	Service requests, emergency triage, scheduling
+Roofers	On roofs all day, noisy	$5,000-20,000	Quote requests, inspection scheduling, storm damage inquiries
+General Contractors	On job sites, multiple projects	$10,000-100,000	Project inquiries, quote scheduling, availability
+Landscapers	Mowing, no phone access, noisy	$500-5,000	Quote requests, seasonal service booking
+Pest Control	Inside crawl spaces, attics	$200-1,000	Service booking, emergency pest issues, pricing
+Locksmiths	On the road, emergency jobs	$100-500	Emergency lockout dispatch, pricing, ETA info
+Garage Door Repair	On installations, hands busy	$300-2,000	Repair scheduling, pricing, emergency calls
+Pool Service	Cleaning pools, outdoors	$200-1,000	Maintenance scheduling, repair requests
+Tier 3: Auto / Vehicle Services
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Auto Repair / Mechanics	Under cars, noisy garage, hands greasy	$300-3,000	Repair booking, pricing estimates, parts availability
+Auto Body / Collision Shops	In paint booths, body work	$1,000-10,000	Estimate scheduling, insurance claims, drop-off booking
+Auto Detailing	Detailing cars, can't answer	$100-500	Service booking, package pricing, availability
+Tire Shops	Changing tires, loud environment	$100-800	Tire pricing, appointment booking, stock checks
+Towing Companies	Driving, on roadside	$100-500	Emergency dispatch, location collection, ETA info
+Car Dealerships (small)	On test drives, with customers	$5,000-50,000	Test drive scheduling, inventory questions, financing inquiries
+Tier 4: Legal & Professional
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Small Law Firms	In court, client meetings	$2,000-50,000	Consultation scheduling, practice area questions, intake
+Personal Injury Lawyers	Every lead is gold, can't miss one	$5,000-100,000+	Case screening, intake info collection, consultation booking
+Immigration Lawyers	Appointments all day	$3,000-15,000	Visa type questions, consultation booking, document checklist
+Accountants / CPAs	Tax season overwhelm, client meetings	$500-5,000	Appointment booking, service questions, tax season scheduling
+Insurance Agents	Out meeting clients, small office	$1,000-10,000	Quote requests, policy questions, appointment scheduling
+Tier 5: Beauty & Wellness
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Hair Salons	Cutting hair, can't pick up phone	$50-300	Appointment booking, service pricing, availability
+Barbershops	Same — hands busy	$30-100	Walk-in vs appointment, wait times, pricing
+Nail Salons	Doing nails, can't touch phone	$40-150	Booking, service menu, pricing
+Massage Therapists	With clients, solo practice	$80-200	Session booking, service types, pricing
+Yoga / Fitness Studios	Teaching classes	$50-200/month	Class scheduling, membership questions, pricing
+Tattoo Shops	Tattooing, can't stop mid-work	$200-2,000	Consultation booking, pricing inquiries, availability
+Tier 6: Food & Hospitality
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Restaurants	Busy during rush, kitchen noise	$50-500	Reservation booking, menu questions, hours, catering inquiries
+Catering Companies	At events, prep kitchen	$1,000-20,000	Event inquiry, menu questions, quote requests
+Bakeries	Baking, hands in dough	$20-500	Custom cake orders, pricing, pickup scheduling
+Food Trucks	Cooking, noisy, on the move	$20-100	Location info, menu, catering inquiries
+Tier 7: Property & Real Estate
+Industry	Why They Miss Calls	Value Per Missed Call	What AI Handles
+Real Estate Agents	At showings, meetings	$3,000-30,000	Property inquiries, showing scheduling, buyer/seller intake
+Property Managers	Managing multiple properties	$500-2,000	Maintenance requests, tenant inquiries, showing scheduling
+Cleaning Companies	Cleaning houses, can't answer	$200-1,000	Quote requests, booking, service questions
+Moving Companies	On the truck, carrying furniture	$500-5,000	Quote collection, date booking, pricing estimates
+Storage Facilities	Small staff, sometimes unmanned	$50-200/month	Unit availability, pricing, reservation
+Top 5 I'd Recommend You Expand To (After Dental)
+How Your Prompt Changes Per Industry
+The beauty of this business: you change 20% of the prompt, keep 80%.
+
+Same AI. Same Vapi. Same Twilio. Just different words in the prompt.
+
+But For Now
+Ready for the cold email templates to start reaching out to those dental clinics?
+
+
+1. DENTAL CLINICS         ← You're here now. Master this first.
+
+After 5-10 dental clients, expand to:
+
+2. VETERINARY CLINICS     ← Same model as dental, easy to adapt
+                            "Dr. Wilson" → "Dr. Wilson (for pets)"
+                            Services: check-ups, vaccinations, surgery
+
+3. MED SPAS               ← High ticket, willing to spend on marketing
+                            Services: Botox, fillers, laser, facials
+
+4. PLUMBERS / HVAC        ← Huge market, always missing calls
+                            Different prompt: emergency triage focused
+
+5. AUTO REPAIR SHOPS      ← Every town has 10+ mechanics
+                            Services: oil change, brakes, diagnostics
+
+
+
+DENTAL PROMPT:
+"You are Sarah, receptionist at Smile Dental..."
+Services: cleaning, whitening, crowns...
+Booking: name, phone, reason, time
+
+VET CLINIC PROMPT:
+"You are Sarah, receptionist at Happy Paws Vet..."
+Services: check-ups, vaccinations, spay/neuter...
+Booking: owner name, pet name, phone, reason, time
+Extra: "Ask for the pet's name and breed"
+
+MECHANIC PROMPT:
+"You are Sarah, receptionist at Miami Auto Repair..."
+Services: oil change, brakes, diagnostics, tire rotation...
+Booking: name, phone, car make/model/year, issue description
+Extra: "Ask what make, model, and year their car is"
+
+PLUMBER PROMPT:
+"You are Sarah, receptionist at Reliable Plumbing..."
+Services: leak repair, drain cleaning, water heater...
+Booking: name, phone, address, description of issue
+Extra: "Ask if it's an emergency (flooding/burst pipe) or routine"
+
+
+FOCUS: Dental clinics in Florida. ONLY.
+
+Don't chase 10 industries at once.
+Find 50 dental leads → send cold emails → get 3 paying clients.
+THEN expand.
