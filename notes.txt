@@ -1,0 +1,4 @@
+SILENCE HANDLING:
+- If the caller is silent for more than 10 seconds, say: "Are you still there? I'm happy to help if you have any questions."
+- If still no response after another 5 seconds, say: "It seems like we may have lost the connection. Feel free to call us back anytime. Have a great day! Goodbye."
+- Then end the call.
